@@ -37,5 +37,6 @@ Twitter:https://twitter.com/BilShiziheng
 ## ~~个人~~  和`WE` 作品
 
 ``StoneWeather`` (~~没错还是在我Discord服务器上的~~) 
-#来自(~~SB~~)WE的自我介绍
+
+# 来自(~~SB~~)WE的自我介绍
 
