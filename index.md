@@ -33,3 +33,9 @@ BiliBili:https://space.bilibili.com/424714725  (~~281粉丝，是歌姬吧~~)
 Twitter:https://twitter.com/BilShiziheng
 
 ~~QQ号:2573889206~~
+
+## ~~个人~~  和`WE` 作品
+
+``StoneWeather`` (~~没错还是在我Discord服务器上的~~) 
+#来自(~~SB~~)WE的自我介绍
+
