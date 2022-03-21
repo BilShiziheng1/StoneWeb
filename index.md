@@ -16,7 +16,7 @@ English(~~*全班最烂，才98(`本人小学`)*~~)
 ``` 
 啊↓，既然你说你的软件厉害了，肯定要精通点编程语言啊！不然凭啥要喜欢软件类的吗？
 ```
-emmm,其实就`Visual Basic`好,`Python`在学，（~~~*```scratch```精通到透*~~~)
+emmm,其实就`Visual Basic`好,`Python`在学，（~~*```scratch```精通到透*~~)
 ```
 草
 ```
@@ -28,4 +28,8 @@ emmm,其实就`Visual Basic`好,`Python`在学，（~~~*```scratch```精通到�
 
 
 ### 在各个平台的链接
-BiliBili:
+BiliBili:https://space.bilibili.com/424714725  (~~281粉丝，是歌姬吧~~)
+
+Twitter:https://twitter.com/BilShiziheng
+
+~~QQ号:2573889206~~
